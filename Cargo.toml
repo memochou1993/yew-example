@@ -1,5 +1,5 @@
 [package]
-name = "yew-web-app"
+name = "yew-example"
 version = "0.1.0"
 edition = "2021"
 
